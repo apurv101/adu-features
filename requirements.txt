@@ -6,7 +6,7 @@ enum34==1.1.6
 Flask==0.12.3
 Flask-SQLAlchemy==2.3.2
 gunicorn==19.7.1
-html5lib==0.9999999
+html5lib==0.99999999
 itsdangerous==0.24
 Jinja2==2.10
 Markdown==2.6.10
